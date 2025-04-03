@@ -38,10 +38,17 @@ Note: These music files are not included in the repository due to copyright cons
 
 ## Screenshots
 
+### Start Screen
 ![Start Screen](screenshots/start_screen.png)
+
+### Song Selection Screen
 ![Song Selection](screenshots/song_select.png)
+
+### Gameplay Screen
 ![Gameplay](screenshots/gameplay.png)
-![Gameplay 2](screenshots/gameplay2.png)
+
+### Gameplay with Effects
+![Gameplay with Effects](screenshots/gameplay2.png)
 
 ## Acknowledgments
 
