@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Dynamic Beat:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Dynamic_Beat_jar</output-path>
+    <root id="archive" name="Dynamic Beat.jar">
+      <element id="module-output" name="Dynamic Beat" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jlayer1.0.1/JLayer1.0.1/jl1.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
